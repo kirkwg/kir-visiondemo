@@ -10,9 +10,9 @@ Tested under:
 
 ### Usage:
 
-git clone https://github.com/kirkwg/kir-visiondemo.git
-cd kir-visiondemo
-npm start 
+git clone https://github.com/kirkwg/kir-visiondemo.git <br />
+cd kir-visiondemo <br />
+npm start <br />
 
 Go to http://localhost:3000/
 
